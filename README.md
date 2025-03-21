@@ -57,8 +57,8 @@ The project includes separate line charts for each of the following metrics:
 
 ## Repository Contents
 
-- `nyc_air_quality_analysis.R`: The main R script that performs data analysis and generates visualizations.
-- `nyc_air_quality_data.csv`: The raw dataset used for the analysis.
+- `NYC Air Quality Data Analysis.R`: The main R script that performs data analysis and generates visualizations.
+- `Air_Quality (1).csv`: The raw dataset used for the analysis.
 - `README.md`: This file, which provides an overview of the project.
 
 ## Conclusion
