@@ -13,7 +13,7 @@ In this project, I:
 
 1. **Imported** the New York City air quality data.
 2. **Cleaned and manipulated** the dataset for analysis.
-3. **Visualized** the temporal trends of the pollutants and traffic data through line charts.
+3. **Visualized** the temporal trends of the pollutants and vehicle miles traveled data through line charts.
 
 The analysis provides insights into how air quality has evolved over time and the potential impact of traffic on pollution levels.
 
